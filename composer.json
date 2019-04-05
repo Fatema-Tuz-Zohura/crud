@@ -1,0 +1,16 @@
+{
+    "name": "fatema/ss-02",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+
+    "autoload":{
+
+    	"files": [
+
+    		"helpers/function.php"
+    	]
+    }
+
+    
+}
